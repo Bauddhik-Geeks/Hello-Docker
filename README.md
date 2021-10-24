@@ -31,5 +31,14 @@
 
 Check out the installation guide here [docker link](https://runnable.com/docker/install-docker-on-windows-10)
 
+## project contributors 👨‍🎓
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/adityamangal1"><img src="https://github.com/adityamangal1.png" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Nitesh-thapliyal"><img src="https://github.com/Nitesh-thapliyal.png" width="100px;" alt=""/><br /><sub><b>Abhi</b></sub></a></td>
+  </tr>
+</table>
+
 
 
