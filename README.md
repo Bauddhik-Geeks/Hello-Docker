@@ -31,7 +31,7 @@
 
 Check out the installation guide here [docker link](https://runnable.com/docker/install-docker-on-windows-10)
 
-## project contributors 👨‍🎓
+## project creators  👨‍🎓
 
 <table>
   <tr>
